@@ -1,0 +1,11 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "description": "Node.js console app that generates random messages each time a user runs the program.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
