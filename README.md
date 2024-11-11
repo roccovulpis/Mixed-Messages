@@ -1,2 +1,2 @@
 # Mixed-Messages
-Node.js console app that generates random messages each time a user runs the program.
+Node.js console app that generates random Spongebob quotes each time a user runs the program.
